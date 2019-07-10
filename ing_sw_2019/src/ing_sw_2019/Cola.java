@@ -17,4 +17,9 @@ public class Cola {
         this.Cab=null;
         this.Col=null;
     }
+     
+     private boolean isEmpty()
+    {
+        return(this.Cab==null);
+    }
 }
