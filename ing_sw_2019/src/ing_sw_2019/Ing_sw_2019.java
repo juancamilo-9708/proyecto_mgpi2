@@ -20,7 +20,8 @@ public class Ing_sw_2019 {
      */
     public static void main(String[] args) {
         Cola c =new Cola ();
-        int m;        
+        int m;    
+        System.out.println.x("Revisión Mauricio Rojas C.");
         Scanner L=new Scanner(System.in);
         do{
             System.out.println("--MENU--");
